@@ -1,59 +1,12 @@
-# Expedia - Hotels Deals App
+# PHP
 
-A simple page that displays a list of hotel deals and enable you to filter the results according to certain criteria such as city name, travel dates and hotel rates.
+PHP can be used on all major operating systems, including Linux, many Unix variants (including HP-UX, Solaris and OpenBSD), Microsoft Windows, Mac OS X, RISC OS, and probably others. PHP also has support for most of the web servers today. This includes Apache, IIS, and many others. And this includes any web server that can utilize the FastCGI PHP binary, like lighttpd and nginx. PHP works as either a module, or as a CGI processor.
 
-# Getting Started
+# About
 
-Follow the below instructions in order to run Expedia hoteal deals app at your local machine.
+With my 7+ years of experience in PHP; I built this mini app using MVC structure. Very easy to install, run and to explore the written code.
 
-# Prerequisites
+# How to Test
 
-Apache Server
-PHP >= 7.0.0
-cURL
+Navigate to the [App](https://ferasabdodeals.herokuapp.com/), You will get a default list then you can filter on whatever criteria you want.
 
-# Installation
-
-First install Apache Server
-
-```bash
-sudo apt-get install apache2
-```
-
-Install PHP 7.0
-
-```bash
-sudo apt-get install php7.0
-```
-
-Then install curl for PHP 7
-
-```bash
-sudo apt-get install php7.0-curl
-```
-
-After that restart apache
-
-```bash
-sudo service apache2 restart
-```
-
-After that clone the repository to your machine
-
-```bash
-git clone https://github.com/fabdo/expedia.git
-```
-
-Now, Open your web browser and type:
-
-```bash
-http://localhost
-```
-
-# Build With
-
-* A custom PHP structure using MVC design pattern
-
-# Author
-
-* **Feras Abdo**
