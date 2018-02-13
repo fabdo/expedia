@@ -10,7 +10,7 @@ Follow the below instructions in order to run Expedia hotel deals app at your lo
 
 Apache Server
 
-PHP >= 7.0.0
+PHP >= 7.1
 
 curl
 
@@ -22,16 +22,16 @@ First install Apache server
 sudo apt-get install apache2
 ```
 
-Install PHP 7.0
+Install PHP 7.1
 
 ```bash
-sudo apt-get install php7.0
+sudo apt-get install php7.1
 ```
 
 Then install curl for PHP 7
 
 ```bash
-sudo apt-get install php7.0-curl
+sudo apt-get install php7.1-curl
 ```
 
 After that restart apache
