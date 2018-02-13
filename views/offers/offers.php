@@ -103,7 +103,7 @@ if(isset($_POST['postQueryString'])){
 			}
 		?>
 	</div>
-	<form method="POST" action="/offers/?action=filter" name="hiddenForm" id="hiddenForm">
+	<form method="POST" action="/?action=filter" name="hiddenForm" id="hiddenForm">
 		<input type="hidden" name="postQueryString" id="postQueryString">
 	</form>
 </body>

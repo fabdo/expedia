@@ -1,5 +1,5 @@
 function reset1(){
-	window.location.href = '/offers';
+	window.location.href = '/';
 }
 
 function search(){

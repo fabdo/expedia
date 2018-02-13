@@ -12,4 +12,4 @@ sudo apt-get install php5-curl
 sudo service apache2 restart
 
 Clone
-clone the offers directory into your local machine then run it as http://localhost/offers
+clone the expedia deals repository from (https://github.com/fabdo/expedia.git) into your local machine then run it as http://localhost
